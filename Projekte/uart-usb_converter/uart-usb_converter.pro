@@ -1,4 +1,4 @@
-update=19.06.2016 14:18:38
+update=25.06.2016 17:59:02
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,7 +25,7 @@ version=1
 NetIExt=net
 [eeschema]
 version=1
-LibDir=D:/Elektronik/KiCAD/Libraries
+LibDir=D:/Elektronik/KiCAD/Libraries;D:/Benutzer/Chrisu/Desktop/git/electronics/Footprints
 [eeschema/libraries]
 LibName1=ctanzer
 LibName2=power
